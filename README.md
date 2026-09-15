@@ -104,7 +104,7 @@ The Executive Overview provides a high-level summary of overall business perform
 
 ### Dashboard Preview
 
-![Executive Overview](screenshots/01_Executive_Overview.png)
+![Executive Overview](01_Executive_Overview.png)
 
 ---
 
@@ -124,7 +124,7 @@ The Product Analysis page focuses on product and category-level performance.
 
 ### Dashboard Preview
 
-![Product Analysis](screenshots/02_Product_Analysis.png)
+![Product Analysis](02_Product_Analysis.png)
 
 ---
 
@@ -143,7 +143,7 @@ The Regional Analysis page evaluates business performance across different regio
 
 ### Dashboard Preview
 
-![Regional Analysis](screenshots/03_Regional_Analysis.png)
+![Regional Analysis](03_Regional_Analysis.png)
 
 ---
 
@@ -278,7 +278,7 @@ The dashboard converts raw sales data into an interactive Business Intelligence 
 
 # 📄 Project Report
 
-📥 **[View / Download the Project Report](report/Sales_Business_Intelligence_Dashboard.pdf)**
+📥 **[View / Download the Project Report](Sales_Business_Intelligence_Dashboard.pdf)**
 
 ---
 
